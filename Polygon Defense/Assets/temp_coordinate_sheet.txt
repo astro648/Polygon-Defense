@@ -11,3 +11,5 @@ g9 posx -52.64934 posy -38.70206 posz -8.333614 rotx 0 roty -180 rotz 0 scx 15.0
 g10 posx -43.16503 posy -38.70206 posz -5.225368 rotx 0 roty -90 rotz 0 scx 10.23283 scy 1 scz 4
 g11 posx -58.16504 posy -38.70206 posz -17.47535 rotx 0 roty -90 rotz 0 scx 15.73298 scy 1 scz 4
 g12 posx -29.14938 posy -38.70206 posz -23.33368 rotx 0 roty -180 rotz 0 scx 56.05681 scy 1 scz 4
+start posx 8 posy 2.5 posz -5 rotx 0 roty 0 rotz 0 scx 4 scy 4 scz 4
+end posx 73.28 posy 2.5 posz -70.03 rotx 0 roty 0 rotz 0 scx 4 scy 4 scz 4
