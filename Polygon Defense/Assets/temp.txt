@@ -8,6 +8,6 @@ g6 posx -16.23114 posy -38.70206 posz 31.57123 rotx 0 roty -180 rotz 0 scx 10 sc
 g7 posx -13.24004 posy -38.70206 posz 14.61063 rotx 0 roty -90 rotz 0 scx 29.9 scy 1 scz 4
 g8 posx -38.94004 posy -38.70206 posz 16.5713 rotx 0 roty -180 rotz 0 scx 35.47471 scy 1 scz 4
 g9 posx -52.64934 posy -38.70206 posz -8.333614 rotx 0 roty -180 rotz 0 scx 15.05649 scy 1 scz 4
-g10 posx  posy  posz  rotx  roty  rotz  scx  scy  scz 
-g11 posx  posy  posz  rotx  roty  rotz  scx  scy  scz 
-g12 posx  posy  posz  rotx  roty  rotz  scx  scy  scz 
+g10 posx -43.16503 posy -38.70206 posz -5.225368 rotx 0 roty -90 rotz 0 scx 10.23283 scy 1 scz 4
+g11 posx -58.16504 posy -38.70206 posz -17.47535 rotx 0 roty -90 rotz 0 scx 15.73298 scy 1 scz 4
+g12 posx -29.14938 posy -38.70206 posz -23.33368 rotx 0 roty -180 rotz 0 scx 56.05681 scy 1 scz 4
