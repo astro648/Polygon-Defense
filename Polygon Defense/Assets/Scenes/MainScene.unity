@@ -1148,7 +1148,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 787dae19cae11fe41ad389c87bb8778f, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  enemyPrefab: {fileID: 0}
+  enemyPrefab: {fileID: 6000493259496007600, guid: 89f2b4419772dec41af3befaf4e191d3, type: 3}
+  spawnPoint: {fileID: 1931877994}
   timeBetweenWaves: 5
 --- !u!4 &166928269
 Transform:
@@ -13351,6 +13352,11 @@ PrefabInstance:
 Transform:
   m_CorrespondingSourceObject: {fileID: 6285402368201586744, guid: 1dfc12fb42dea3d45bd6b221caf43206, type: 3}
   m_PrefabInstance: {fileID: 1931495935}
+  m_PrefabAsset: {fileID: 0}
+--- !u!4 &1931877994 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 5575189617602456551, guid: d7fcf028ca1d4884bac07e0c486cbf45, type: 3}
+  m_PrefabInstance: {fileID: 5575189618456130957}
   m_PrefabAsset: {fileID: 0}
 --- !u!1001 &1934089290
 PrefabInstance:
