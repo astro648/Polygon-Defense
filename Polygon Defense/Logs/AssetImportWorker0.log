@@ -187,3 +187,33 @@ AssetImportParameters requested are different than current active one (requested
   custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
   custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
   custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 765898.649841 seconds.
+  path: Assets/temp.txt
+  artifactKey: Guid(c00e9e25c2c99824ca097a5fb3493e78) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/temp.txt using Guid(c00e9e25c2c99824ca097a5fb3493e78) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c32cb14435704282f0894a7b24c6029d') in 0.032834 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 9.958542 seconds.
+  path: Assets/temp_coordinate_sheet.txt
+  artifactKey: Guid(c00e9e25c2c99824ca097a5fb3493e78) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/temp_coordinate_sheet.txt using Guid(c00e9e25c2c99824ca097a5fb3493e78) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5fefbd5df0b0f0faf1dfa2606d812cd3') in 0.005520 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 88.520931 seconds.
+  path: Assets/temp.txt
+  artifactKey: Guid(44c4fbe0c5dd7a447b686bf28f627035) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/temp.txt using Guid(44c4fbe0c5dd7a447b686bf28f627035) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ae2ffe7c45b73d1f90dc5fa6dc52480e') in 0.002146 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 27.592905 seconds.
+  path: Assets/temp_coordinate_sheet.txt
+  artifactKey: Guid(c00e9e25c2c99824ca097a5fb3493e78) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/temp_coordinate_sheet.txt using Guid(c00e9e25c2c99824ca097a5fb3493e78) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '41ae92ed06416b928e65f0b74295e1f1') in 0.003733 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 114.078129 seconds.
+  path: Assets/Prefabs/Ground.prefab
+  artifactKey: Guid(e7b5a65cb7d4f4f44945872aa795ff32) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Ground.prefab using Guid(e7b5a65cb7d4f4f44945872aa795ff32) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd14f1011c9602b1bdeb52b00438151a3') in 0.082934 seconds 
