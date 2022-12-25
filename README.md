@@ -1,4 +1,4 @@
-# Polygon-Defense
+# Polygon Defense
 Polygon Defense is a indie tower defense game, coming to Steam soon!
 
 Here are some links to get started:
