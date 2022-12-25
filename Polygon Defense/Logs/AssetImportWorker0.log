@@ -3699,3 +3699,9 @@ Received Import Request.
   path: Assets/Scripts/Node.cs
   artifactKey: Guid(c311d54b930da874d93344a2266918d1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
 Start importing Assets/Scripts/Node.cs using Guid(c311d54b930da874d93344a2266918d1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bcebb105fc44d15ca242e5dc89f3c832') in 0.003390 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 32.308558 seconds.
+  path: Assets/Scripts/Node.cs
+  artifactKey: Guid(c311d54b930da874d93344a2266918d1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Node.cs using Guid(c311d54b930da874d93344a2266918d1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4ddf6df2ef46d8be58c80546e773516b') in 0.002637 seconds 
