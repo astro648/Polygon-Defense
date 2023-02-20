@@ -38,7 +38,7 @@ RenderSettings:
   m_ReflectionIntensity: 1
   m_CustomReflection: {fileID: 0}
   m_Sun: {fileID: 705507994}
-  m_IndirectSpecularColor: {r: 0.18254632, g: 0.22825882, b: 0.30721056, a: 1}
+  m_IndirectSpecularColor: {r: 0.18253942, g: 0.22825137, b: 0.3072155, a: 1}
   m_UseRadianceAmbientProbe: 0
 --- !u!157 &3
 LightmapSettings:
@@ -14657,7 +14657,7 @@ MonoBehaviour:
     m_VerticalOverflow: 0
     m_LineSpacing: 1
   m_Text: PRE-RELEASE TEST VERSION - This is a pre-release test build and not indicative
-    of gameplay or content in an official release.
+    of gameplay or content in official releases.
 --- !u!222 &2081117333
 CanvasRenderer:
   m_ObjectHideFlags: 0
