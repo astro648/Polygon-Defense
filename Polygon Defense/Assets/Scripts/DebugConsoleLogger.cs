@@ -1,8 +1,8 @@
 using UnityEngine;
 
-namespace DebugStuff
+namespace DebugConsoleLogger
 {
-    public class ConsoleToGUI : MonoBehaviour
+    public class DebugConsoleLogger : MonoBehaviour
     {
         //#if !UNITY_EDITOR
         static string myLog = "";

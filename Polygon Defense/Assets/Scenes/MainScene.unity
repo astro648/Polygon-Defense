@@ -1033,7 +1033,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 1}
   m_AnchorMax: {x: 0.5, y: 1}
-  m_AnchoredPosition: {x: 0, y: -40.8}
+  m_AnchoredPosition: {x: 0, y: -40.80005}
   m_SizeDelta: {x: 183.4706, y: 109.9742}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &126930481
@@ -1294,6 +1294,7 @@ GameObject:
   - component: {fileID: 166928269}
   - component: {fileID: 166928268}
   - component: {fileID: 166928270}
+  - component: {fileID: 166928271}
   m_Layer: 0
   m_Name: GameMaster
   m_TagString: Untagged
@@ -1345,6 +1346,18 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   standardTurretPrefab: {fileID: 5079510734919545389, guid: 29bd031a9012d0645a49735fc000873f, type: 3}
+--- !u!114 &166928271
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 166928267}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 618d52f520f7b4549ad0c0627c1fc17d, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1001 &191340914
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -6056,7 +6069,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 1}
   m_AnchorMax: {x: 0, y: 1}
-  m_AnchoredPosition: {x: 81.47211, y: -41.49823}
+  m_AnchoredPosition: {x: 81.47217, y: -41.49829}
   m_SizeDelta: {x: 162.9442, y: 82.9965}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &860414092
@@ -6092,7 +6105,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: 'v0.0.2 build 012302
+  m_Text: 'v0.0.2 build 032302
 
     mode: debug'
 --- !u!222 &860414093
@@ -14705,9 +14718,9 @@ RectTransform:
   m_Father: {fileID: 290446588}
   m_RootOrder: 1
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
-  m_AnchorMin: {x: 0.5, y: 0.5}
-  m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 0, y: -206.8}
+  m_AnchorMin: {x: 0.5, y: 0}
+  m_AnchorMax: {x: 0.5, y: 0}
+  m_AnchoredPosition: {x: 0, y: 15.199951}
   m_SizeDelta: {x: 397.434, y: 30}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &2081117331
