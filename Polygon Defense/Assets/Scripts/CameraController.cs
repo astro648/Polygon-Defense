@@ -10,7 +10,7 @@ public class CameraController : MonoBehaviour
 
         if (Input.GetKey("w"))
         {
-            transform.Translate(Vector3.forward * panSpeed * Time.deltaTime); // Time.deltaTime makes speed independent of framerate
+            transform.Translate(Vector3.forward * panSpeed * Time.deltaTime, Space.World); // Time.deltaTime makes speed independent of framerate, Space.World makes it relative to the world coordinates so the movement is independent to the rotation of the camera
         }
 
     }
