@@ -43,6 +43,7 @@ public class CameraController : MonoBehaviour
         Vector3 pos = transform.position;
 
         pos.y -= scroll * scrollFactor * scrollSpeed * Time.deltaTime;
+        pos.y = Mathf.Clamp(pos.y, minY, maxY); // Restricts y to be between minimum and maximum
 
         transform.position = pos;
 
